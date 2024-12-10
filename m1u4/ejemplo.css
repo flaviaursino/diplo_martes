@@ -1,0 +1,39 @@
+h1{
+    color: red; /* comentario en CSS */
+    font-family: arial; /*para cambiar tipo*/
+    background-color: yellow; /*fondo*/
+    text-align: center;
+}
+
+h2{
+    color: green;
+    font-size: 30px;
+}
+
+p{
+    color: blue;
+    font-size: 18px;
+}
+
+.destacados{
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+#rojo{
+    background-color: #ff0000;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border: 5px solid black;
+    box-sizing: border-box;
+    margin-left: 100px;
+}
+
+#azul{
+    background-color: aquamarine;
+    width: 300px;
+    height: 300px;
+}
